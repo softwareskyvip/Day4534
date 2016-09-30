@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         initView();
         initData();
         int a = 9;
+        int 吧= 6;
     }
 
     private void initData() {
