@@ -13,6 +13,6 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     private void initView() {
-        
+
     }
 }

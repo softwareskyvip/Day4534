@@ -28,4 +28,14 @@
         android:layout_marginTop="82dp"
         android:onClick="second"
         android:id="@+id/button" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button"
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignStart="@+id/button"
+        android:layout_marginTop="41dp"
+        android:id="@+id/button2" />
 </RelativeLayout>
